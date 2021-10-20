@@ -1,3 +1,6 @@
 [submodule "StepperUI"]
 	path = StepperUI
 	url = https://github.com/soumyahr/StepperUI.git
+[submodule "SliderUI"]
+	path = SliderUI
+	url = https://github.com/soumyahr/SliderUI.git
