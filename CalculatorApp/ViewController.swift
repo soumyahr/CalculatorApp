@@ -50,7 +50,7 @@ class ViewController: UIViewController {
         return label
     }()
     
-    //creating auto layout constraints
+    //creating auto layout constraints        .
     func SetUpAutoLayout() {
         holder.leftAnchor.constraint(equalTo:view.leftAnchor).isActive = true
         holder.rightAnchor.constraint(equalTo: view.rightAnchor).isActive = true
